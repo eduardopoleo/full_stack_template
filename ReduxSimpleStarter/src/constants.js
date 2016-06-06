@@ -1,0 +1,3 @@
+export default {
+  FETCHED_ARTICLES: 'FETCHED_ARTICLES'
+};
